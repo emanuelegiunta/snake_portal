@@ -1,0 +1,6 @@
+# pytohn compiled files
+**.pyc
+__pycache__/
+
+# auxiliary local files
+**.csv

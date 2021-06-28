@@ -1,0 +1,20 @@
+# Settings file.
+#
+# Right now only comments, empty
+#  lines and assignments are
+#  supported
+#
+# Comment line have to start with a
+#  "#" symbol (inline comments
+#  are not yet supported)
+
+CTXT_SPEED = 60
+SNAKE_SPEED = 7
+
+COLOR_BKG_ARENA = -1
+COLOR_SNAKE = -1
+COLOR_WALL = -1
+
+# [ascii/unicode]
+SNAKE_FONT = 'unicode'
+WALL_FONT = 'unicode'

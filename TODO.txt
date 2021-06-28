@@ -1,0 +1,11 @@
+TODOs:
+
+# quickfix
+1. Make walls' icon act as if on a torus (? will break the box)
+2. Solve the misterious snake movement bug
+
+# new features
+1. Load functionality in the editor
+2. Setting option in the main
+3. Add an easy credit view	
+
